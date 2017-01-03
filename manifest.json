@@ -1,7 +1,7 @@
 {
 "name":"Mouseless Googling",
-"description":"Google Without Your Mouse. Use only the keys and safe time!",
-"version":"0.5.1",
+"description":"Google Without Your Mouse. Use the keys, save your time!",
+"version":"0.5.3",
 "manifest_version":2,
 "icons": {
   "48": "mg-icon64.png"
